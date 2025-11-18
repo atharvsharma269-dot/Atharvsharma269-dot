@@ -3,6 +3,24 @@
 
 - 🌱 I’m currently learning **Java**
 
+  
+- ### 🚀 Currently Working On  
+- A Frontend web project  
+- Learning Java + Data Structures  
+- Exploring AI/ML fundamentals
+
+### 🎯 Goals for 2026 
+- Build 5+ AI/ML mini-projects  
+- Improve DSA (Java)  
+- Participate in more hackathons  
+- Contribute to open-source  
+
+### 🏆 Hackathons  
+- Participated in 2 Hackathons  
+- Worked on real-world problem statements with teams  
+
+
+
 - 📫 How to reach me **atharvsharma269@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
