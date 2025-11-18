@@ -21,7 +21,8 @@
 
 
 
-- 📫 How to reach me **atharvsharma269@gmail.com**
+- 📫 Contac tme here **atharvsharma269@gmail.com** and  `https://www.linkedin.com/in/atharv-sharma-03bb66383/` 
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
