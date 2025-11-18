@@ -53,7 +53,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvsharma269-dot&" alt="atharvsharma269-dot" /></p>
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=atharvsharma269-dot.atharvsharma269-dot&"  />
 </div>
 
