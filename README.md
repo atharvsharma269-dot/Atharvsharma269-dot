@@ -58,11 +58,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvsharma269-dot&" alt="atharvsharma269-dot" /></p>
 
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=atharvsharma269-dot.atharvsharma269-dot&"  />
-</div>
-
 ###
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee atharvsharma269-dot"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee atharvsharma269-dot" /></a></p><br><br>
