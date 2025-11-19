@@ -44,7 +44,7 @@ My approach: learn by doing, collaborate with peers, and constantly push myself 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvsharma269-dot&" alt="atharvsharma269-dot" /></p>
 
-<div align="center">📊Contribution Activity Graph
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvsharma269-dot&theme=tokyo-night&hide_border=true"/>
 
