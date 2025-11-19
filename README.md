@@ -48,7 +48,6 @@ My approach: learn by doing, collaborate with peers, and constantly push myself 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharvsharma269-dot/atharvsharma269-dot/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharvsharma269-dot/atharvsharma269-dot/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/atharvsharma269-dot/atharvsharma269-dot/output/pacman-contribution-graph.svg">
 </picture>
 
