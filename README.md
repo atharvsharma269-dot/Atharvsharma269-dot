@@ -34,7 +34,7 @@ My approach: learn by doing, collaborate with peers, and constantly push myself 
 <!-- STATS SECTION -->
 <div align="center">
 
-### 📊 **GitHub Stats (Dark Mode)**
+### 📊 **GitHub Stats**
   
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=atharvsharma269-dot&theme=tokyonight&show_icons=true&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvsharma269-dot&layout=compact&theme=tokyonight&hide_border=true" />
@@ -44,7 +44,7 @@ My approach: learn by doing, collaborate with peers, and constantly push myself 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvsharma269-dot&" alt="atharvsharma269-dot" /></p>
 
-<div align="center">
+<div align="center">📊Contribution Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvsharma269-dot&theme=tokyo-night&hide_border=true"/>
 
