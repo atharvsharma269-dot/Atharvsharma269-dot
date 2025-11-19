@@ -74,7 +74,8 @@ My approach: learn by doing, collaborate with peers, and constantly push myself 
   </a>
 </div>
 
-
+<br>
+<br>
 
 
 [![GitHub followers](https://img.shields.io/github/followers/atharvsharma269-dot?label=Follow&style=social)](https://github.com/atharvsharma269-dot)  
