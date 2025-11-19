@@ -6,9 +6,9 @@ I’m a first-year undergraduate in Computer Science & Engineering (specializing
 I’m passionate about building intuitive web experiences, exploring machine learning models, and strengthening my core in algorithms and data structures.
 
 To date:
-✅ Participated in 2 hackathons, gaining rapid prototyping and teamwork experience
-🖥️ Built a frontend project (React/HTML/CSS/JS) showcasing polished UI
-📚 Learning Java and DSA to solidify the fundamentals
+-✅ Participated in 2 hackathons, gaining rapid prototyping and teamwork experience
+-🖥️ Built a frontend project (React/HTML/CSS/JS) showcasing polished UI
+-📚 Learning Java and DSA to solidify the fundamentals
 
 My approach: learn by doing, collaborate with peers, and constantly push myself into new challenges.
 
@@ -21,7 +21,6 @@ My approach: learn by doing, collaborate with peers, and constantly push myself 
 ### 🏆 Hackathons  
 - Participated in 2 Hackathons  
 - Worked on real-world problem statements with teams  
-
 
 
 - 📫 Contact me here <div align="left">
