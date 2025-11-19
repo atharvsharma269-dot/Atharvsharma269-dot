@@ -21,7 +21,7 @@
 
 
 
-- 📫 Contact tme here <div align="left">
+- 📫 Contact me here <div align="left">
   <a href="https://www.linkedin.com/in/atharv-sharma-03bb66383/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
