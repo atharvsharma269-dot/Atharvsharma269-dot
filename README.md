@@ -55,9 +55,9 @@ My approach: learn by doing, collaborate with peers, and constantly push myself 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvsharma269-dot&show_icons=true&locale=en&layout=compact" alt="atharvsharma269-dot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvsharma269-dot&show_icons=true&locale=en" alt="atharvsharma269-dot" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=atharvsharma269-dot&show_icons=true&locale=en" alt="atharvsharma269-dot" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvsharma269-dot&" alt="atharvsharma269-dot" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvsharma269-dot&" alt="atharvsharma269-dot" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvsharma269-dot" alt="atharvsharma269-dot" /></a> </p>
 
