@@ -41,8 +41,57 @@ My approach: learn by doing, collaborate with peers, and constantly push myself 
 
 </div>
 
+<!-- Dark merged GitHub stats + streak (README-friendly) -->
+<div align="center" style="background:#0d1117; padding:22px; border-radius:12px; border:1px solid #21262d; max-width:920px; margin:auto;">
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvsharma269-dot&" alt="atharvsharma269-dot" /></p>
+  <!-- top row: stats images (dark) -->
+  <p style="margin:0 0 12px 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=atharvsharma269-dot&show_icons=true&theme=dark&hide_border=true&count_private=true" height="120" alt="GitHub Stats" style="vertical-align:middle; border-radius:10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvsharma269-dot&layout=compact&theme=dark&hide_border=true" height="120" alt="Top Languages" style="vertical-align:middle; border-radius:10px;"/>
+  </p>
+
+  <!-- merged streak card -->
+  <table width="100%" style="border-collapse:collapse; color:#c9d1d9;">
+    <tr>
+      <td align="center" width="33%" style="padding:18px;">
+        <h2 style="margin:0; color:#ffffff;">23</h2>
+        <div style="margin-top:6px;">Total Contributions</div>
+        <div style="margin-top:6px; font-size:13px; color:#8b949e;">Aug 14 – Present</div>
+      </td>
+
+      <td width="1" style="background:#21262d;"></td>
+
+      <td align="center" width="34%" style="padding:18px;">
+        <!-- inline SVG ring + central number -->
+        <div style="margin-bottom:8px; display:flex; justify-content:center;">
+          <svg width="78" height="78" viewBox="0 0 78 78" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <circle cx="39" cy="39" r="30" stroke="#1b2228" stroke-width="10" fill="none"/>
+            <circle cx="39" cy="39" r="30" stroke="#f0883e" stroke-width="6" stroke-dasharray="60 120" stroke-linecap="round" fill="none" transform="rotate(-90 39 39)"/>
+            <text x="39" y="46" font-size="20" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700">2</text>
+          </svg>
+        </div>
+
+        <div style="color:#f0883e; font-weight:700;">Current Streak</div>
+        <div style="margin-top:6px; font-size:13px; color:#8b949e;">Nov 18 – Nov 19</div>
+
+        <!-- uploaded local streak image (platform will convert this path to a URL) -->
+        <div style="margin-top:10px;">
+          <img src="/mnt/data/23cca930-b804-45e8-96f0-38516a7a678a.png" alt="streak" style="width:70px; height:70px; object-fit:cover; border-radius:10px; border:1px solid rgba(255,255,255,0.03)"/>
+        </div>
+      </td>
+
+      <td width="1" style="background:#21262d;"></td>
+
+      <td align="center" width="33%" style="padding:18px;">
+        <h2 style="margin:0; color:#ffffff;">2</h2>
+        <div style="margin-top:6px;">Longest Streak</div>
+        <div style="margin-top:6px; font-size:13px; color:#8b949e;">Nov 14 – Nov 15</div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 <div align="center">
 
