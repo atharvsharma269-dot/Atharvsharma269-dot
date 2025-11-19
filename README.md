@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Atharv Sharma</h1>
-<h3 align="center">First-Year CSE (AI/ML) Student | Passionate About AI & Web DEV</h3>
+<h3 align="center">
+About Me
 
-- 🌱 I’m currently learning **Java**
+I’m a first-year undergraduate in Computer Science & Engineering (specializing in AI/ML) based in India.
+I’m passionate about building intuitive web experiences, exploring machine learning models, and strengthening my core in algorithms and data structures.
+To date:
 
-  
-- ### 🚀 Currently Working On  
-- A Frontend web project  
-- Learning Java + Data Structures  
-- Exploring AI/ML fundamentals
+    ✅ Participated in 2 hackathons, gaining rapid prototyping and teamwork experience
+    🖥️ Built a frontend project (React/HTML/CSS/JS) showcasing polished UI
+    📚 Learning Java and DSA to solidify the fundamentals
+
+My approach: learn by doing, collaborate with peers, and constantly push myself into new challenges.
 
 ### 🎯 Goals for 2026 
 - Build 5+ AI/ML mini-projects  
