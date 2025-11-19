@@ -43,7 +43,6 @@ My approach: learn by doing, collaborate with peers, and constantly push myself 
 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/atharvsharma269-dot?label=Follow&style=social)](https://github.com/atharvsharma269-dot)  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvsharma269-dot" alt="atharvsharma269-dot" /></a> </p>
 
@@ -74,4 +73,6 @@ My approach: learn by doing, collaborate with peers, and constantly push myself 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+[![GitHub followers](https://img.shields.io/github/followers/atharvsharma269-dot?label=Follow&style=social)](https://github.com/atharvsharma269-dot)  
 
