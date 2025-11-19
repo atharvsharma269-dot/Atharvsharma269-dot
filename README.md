@@ -4,11 +4,11 @@ About Me
 
 I’m a first-year undergraduate in Computer Science & Engineering (specializing in AI/ML) based in India.
 I’m passionate about building intuitive web experiences, exploring machine learning models, and strengthening my core in algorithms and data structures.
-To date:
 
-    ✅ Participated in 2 hackathons, gaining rapid prototyping and teamwork experience
-    🖥️ Built a frontend project (React/HTML/CSS/JS) showcasing polished UI
-    📚 Learning Java and DSA to solidify the fundamentals
+To date:
+✅ Participated in 2 hackathons, gaining rapid prototyping and teamwork experience
+🖥️ Built a frontend project (React/HTML/CSS/JS) showcasing polished UI
+📚 Learning Java and DSA to solidify the fundamentals
 
 My approach: learn by doing, collaborate with peers, and constantly push myself into new challenges.
 
