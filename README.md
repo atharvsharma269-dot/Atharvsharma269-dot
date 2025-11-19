@@ -55,7 +55,7 @@ My approach: learn by doing, collaborate with peers, and constantly push myself 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee atharvsharma269-dot"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee atharvsharma269-dot" /></a></p>
 <br>
-<be>
+<br>
 
 <h3 align="left">Socials</h3>
 - <div align="left">
