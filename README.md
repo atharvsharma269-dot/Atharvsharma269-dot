@@ -44,10 +44,14 @@ My approach: learn by doing, collaborate with peers, and constantly push myself 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvsharma269-dot&" alt="atharvsharma269-dot" /></p>
 
-<br>
+<div align="center">
 
+### 🟣 **Contribution Activity (Dark Grid)**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvsharma269-dot" alt="atharvsharma269-dot" /></a> </p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvsharma269-dot&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
 
 
 
