@@ -46,8 +46,6 @@ My approach: learn by doing, collaborate with peers, and constantly push myself 
 
 <div align="center">
 
-### 🟣 **Contribution Activity (Dark Grid)**
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvsharma269-dot&theme=tokyo-night&hide_border=true"/>
 
 </div>
