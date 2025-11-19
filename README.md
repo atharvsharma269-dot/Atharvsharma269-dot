@@ -53,10 +53,10 @@ My approach: learn by doing, collaborate with peers, and constantly push myself 
 
 ###
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee atharvsharma269-dot"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee atharvsharma269-dot" /></a></p><br><be>
+<p><a href="https://www.buymeacoffee.com/buymeacoffee atharvsharma269-dot"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee atharvsharma269-dot" /></a></p><br><br>
 
 - 📫 Contact me here
-- <div align="center">
+- <div align="left">
   <a href="https://www.linkedin.com/in/atharv-sharma-03bb66383/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
