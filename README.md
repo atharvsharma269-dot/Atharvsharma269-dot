@@ -6,9 +6,9 @@ I’m passionate about building intuitive web experiences, exploring machine lea
 
 <ul>
  To date:
--✅ Participated in 2 hackathons, gaining rapid prototyping and teamwork experience
--🖥️ Built a frontend project (React/HTML/CSS/JS) showcasing polished UI
--📚 Learning Java and DSA to solidify the fundamentals
+<li>-✅ Participated in 2 hackathons, gaining rapid prototyping and teamwork experience</li>
+<li>-🖥️ Built a frontend project (React/HTML/CSS/JS) showcasing polished UI</li>
+<li>-📚 Learning Java and DSA to solidify the fundamentals</li>
 </ul>
 
 My approach: learn by doing, collaborate with peers, and constantly push myself into new challenges.
