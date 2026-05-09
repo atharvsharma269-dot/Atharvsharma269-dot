@@ -6,21 +6,21 @@ I’m passionate about building intuitive web experiences, exploring machine lea
 
 <ul>
  To date:
-<li>✅ Participated in 2 hackathons, gaining rapid prototyping and teamwork experience</li>
+<li>✅ Participated in 3 hackathons, gaining rapid prototyping and teamwork experience</li>
 <li>🖥️ Built a frontend project (React/HTML/CSS/JS) showcasing polished UI</li>
-<li>📚 Learning Java and DSA to solidify the fundamentals</li>
+<li>📚 Learning C++ and DSA to solidify the fundamentals</li>
 </ul>
 
 My approach: learn by doing, collaborate with peers, and constantly push myself into new challenges.
 
 ### 🎯 Goals for 2026 
 - Build 5+ AI/ML mini-projects  
-- Improve DSA (Java)  
+- Improve DSA (C++)  
 - Participate in more hackathons  
 - Contribute to open-source  
 
 ### 🏆 Hackathons  
-- Participated in 2 Hackathons  
+- Participated in 3 Hackathons  
 - Worked on real-world problem statements with teams  
 
 
